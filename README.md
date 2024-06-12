@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsham3296
+- 👋 Hi, I’m Harsha Middi.
 - 👀I am a Data analyst student at Goodwill university. Through this page, I hope to showcase my vision, resume and portfolio. Please contact me if you have any questions and concerns.
 - 🌱 I’m currently learning data analytics training at Goodwill university.
 - 💞️ I’m looking to collaborate on ...
